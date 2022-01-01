@@ -1,0 +1,37 @@
+body {
+  background-color: navajowhite;
+}
+h2 {
+  text-align: center;
+  color: peru;
+  font-family: sans-serif;
+}
+h3 {
+  text-align: center;
+  color: peru;
+  font-family: Helvetica, sans-serif;
+}
+div {
+  border: 2px sandybrown;
+  border-style: dotted;
+  text-align: center;
+}
+img {
+  margin: 30px 0 0 480px;
+  width: 30%;
+  height: 30%;
+  border: 1px sandybrown;
+  border-style: solid;
+}
+table {
+  align: center;
+  border: 1px solid sandybrown;
+}
+th, td {
+   border: 1px solid sandybrown;
+}
+p {
+  text-align: center;
+  color: peru;
+  font-family: Helvetica, sans-serif;
+}
